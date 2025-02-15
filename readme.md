@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm currently diving deep into a Flask project that utilizes the Spotify API to dynamically generate personalized playlists. This project stemmed from my passion for music and the desire to discover new tracks effortlessly.<br><br>My upcoming goals are:<br>Machine Learning Integration: Exploring machine learning algorithms to enhance playlist recommendations based on user listening history and feedback.<br>Community Engagement: Establishing a community around the project to gather feedback, feature requests, and collaborate on improvements.<br>Deployment: Deploying the Flask application to a cloud platform for easy access and scalability.<br><br>I am currently studying Data Structures and Algorithms as well as expanding my skillset by versing myself within React and Node.js.<br>
+- 🐍 I love coding in **Python** and building cloud solutions with **AWS**  
+- 🌱 Currently learning **Node.js** and expanding my backend skills  
+- 💡 Passionate about Software Engineering, InfraDev, AI/ML, and building scalable applications  
 
 
 ## 🌐 Socials:
